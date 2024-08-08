@@ -1,6 +1,6 @@
-## boas vinda ao meu perfil😍
+### boas vinda ao meu perfil😍
 
-meu nome é maria esmeralda
+**meu nome é maria esmeralda**
 
 - Estou estudando na alura
 - Estou me desenvolvendo na linguagem javaScript
